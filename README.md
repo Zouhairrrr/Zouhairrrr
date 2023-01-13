@@ -23,7 +23,7 @@ Web and mobile Programmer | Web and mobile Designer | Learner | Researcher
 
 I'm a full stack developer...
 
-<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+<img align="right" src="whttps://bugfender.com/wp-content/uploads/2020/07/dependency-tree-ok-1024x498-1.png">
 
 ### Connect with me:
 
